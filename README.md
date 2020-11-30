@@ -39,4 +39,4 @@
 </div>
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=Proxysec&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=internetkingpin&style=flat-square">
