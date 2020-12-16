@@ -11,7 +11,7 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-	<img src=https://img.shields.io/badge/jakob%232347-hi-red' alt='Discord = = = jakob#2347'>
+	<img src=https://img.shields.io/badge/$Ghoul%230001-hi-red' alt='Discord = = = $Ghoul#0001'>
 	</a>
 </div>
 
