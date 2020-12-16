@@ -1,4 +1,3 @@
-# hi im jakob
 <div style='font-size:1.2em'>
 	<b>i just love making tools that break things</b>
 	<br>
