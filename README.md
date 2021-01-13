@@ -10,7 +10,7 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-	<img src=https://img.shields.io/badge/$Ghoul%230001-hi-red' alt='Discord = = = $Ghoul#0001'>
+	<img src=https://img.shields.io/badge/78960723214362%232165-hi-red' alt='Discord = = = 78960723214362#2165'>
 	</a>
 </div>
 
