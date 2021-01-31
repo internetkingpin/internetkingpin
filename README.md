@@ -15,7 +15,7 @@
 
 <hr>
 
-## 🔧 Langs i know 
+## Uhh just gonna leave this here 💀 
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	&emsp;
