@@ -10,7 +10,6 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href="https://discord.com/users/789607232143622165">Discord</a>
-	<img src=https://cdn.discordapp.com/avatars/789607232143622165/a_19145352afb241f2159022e68896675c.gif'>
 	</a>
 </div>
 
