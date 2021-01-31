@@ -1,5 +1,5 @@
 <div style='font-size:1.2em'>
-	<b>i just love making tools that break things</b>
+	<b>Retired Cyber Terrorist</b>
 	<br>
 
 </div>
@@ -9,8 +9,8 @@
 ## ⚡ find  Me on
 
 <div align='left' style="display: flex; justify-content: space-between;">
-	<a href='#'>
-	<img src=https://discord.com/users/789607232143622165' alt='Discord = = = 78960723214362#2165'>
+	<a href="https://discord.com/users/789607232143622165">Discord</a>
+	<img src=https://cdn.discordapp.com/avatars/789607232143622165/a_19145352afb241f2159022e68896675c.gif'>
 	</a>
 </div>
 
